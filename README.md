@@ -1,3 +1,6 @@
+#Báo cáo dự án
+- 📘 [Báo cáo dự án (PDF)](./Báo cáo CSDL Web - Quản lý chi tiêu gia đình.pdf)
+- ⚙️ [Hướng dẫn cài đặt](./HUONGDAN.txt)
 
 # Hướng dẫn cài đặt và kết nối MongoDB trên Windows
 
